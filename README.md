@@ -60,7 +60,6 @@ See: [`react_answers.md`](./react_answers.md)
 ---
 
 
-[https://your-app-name.vercel.app](https://your-app-name.vercel.app)
 
 ---
 
